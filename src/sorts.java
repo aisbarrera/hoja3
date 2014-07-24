@@ -1,12 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author andreabarrera
- */
 public class sorts {
     private static void merge(int data[], int temp[],int low, int middle, int high)
     // pre: data[middle..high] are ascending
