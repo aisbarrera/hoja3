@@ -1,6 +1,7 @@
 
 import java.util.Arrays;
-public class main {
+public class DriverSorts
+{
     public static void main(String[] args){
         Grandom lisdes = new Grandom();
         InsertionSort lista = new InsertionSort(lisdes.generarRandom());
