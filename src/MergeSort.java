@@ -1,3 +1,10 @@
+//****************************************************************
+// Autores: Andrea Barrera Carne: 13655 Otto Wantland Carne: 13663 Diego Rodriguez Carne: 13111
+// Seccion: 20
+//Fecha 29/7/14
+// Nombre de Archivo: MergeSort.java
+// Breve Descripcion: ordena una lista de 2000 elementos por el metodo merge
+//*****************************************************************
 public class MergeSort{
     
   private int[] numbers;
@@ -60,5 +67,6 @@ public class MergeSort{
   }
    
 } 
+/* fuente: http://www.vogella.com/tutorials/JavaAlgorithmsMergesort/article.html */
 
     

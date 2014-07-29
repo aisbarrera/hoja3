@@ -1,4 +1,10 @@
-
+//****************************************************************
+// Autores: Andrea Barrera Carne: 13655 Otto Wantland Carne: 13663 Diego Rodriguez Carne: 13111
+// Seccion: 20
+//Fecha 29/7/14
+// Nombre de Archivo: Grandom.java
+// Breve Descripcion: Genera una lista de 2000 numeros random
+//*****************************************************************
 import java.util.Random;
 public class Grandom{
     
@@ -20,3 +26,4 @@ public class Grandom{
        return randomList;
    }
 }
+/*fuente: http://www.javapractices.com/topic/TopicAction.do?Id=62 */
